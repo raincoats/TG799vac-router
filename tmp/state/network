@@ -1,0 +1,13 @@
+network.loopback.up=1
+network.loopback.connect_time=60
+network.loopback.device=lo
+network.Guest1.up=1
+network.Guest1.connect_time=69
+network.Guest1.device=wl0_1
+network.Guest1_5GHz.up=1
+network.Guest1_5GHz.connect_time=80
+network.Guest1_5GHz.device=wl1_1
+network.lan.up=1
+network.lan.connect_time=86
+network.lan.device=eth0 eth1 eth2 eth3
+network.lan.ifname=br-lan

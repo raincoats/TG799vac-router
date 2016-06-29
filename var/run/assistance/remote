@@ -1,0 +1,7 @@
+wanport=55636
+ifname=wan
+lanport=443
+wanip=
+mode=0
+password=_DUMMY_PASSWORD_
+enabled=0

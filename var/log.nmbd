@@ -1,0 +1,297 @@
+[1970/01/01 11:01:35, 0] nmbd/nmbd.c:main(723)
+  Netbios nameserver version 3.0.37 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2009
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16LE to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16LE to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF8 to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ASCII to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF-16LE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16LE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF8 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to ASCII not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF8 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF-16BE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16BE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF8 to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16BE to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16BE to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16LE to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16LE to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF8 to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ASCII to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF-16LE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16LE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF8 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to ASCII not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF8 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF-16BE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16BE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF8 to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16BE to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16BE to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16LE to ISO8859-1 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16LE to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16LE to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16LE to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ISO8859-1 to UTF-16LE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16LE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ISO8859-1 to ASCII not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ISO8859-1 to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ISO8859-1 to UTF8 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ISO8859-1 to UTF-16BE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16BE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ASCII to ISO8859-1 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ASCII to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF-16LE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16LE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to ISO8859-1 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to ASCII not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF8 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF-16BE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16BE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF8 to ISO8859-1 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF8 to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16BE to ISO8859-1 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16BE to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16BE to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16BE to ASCII
+[1970/01/01 11:01:35, 1] param/loadparm.c:lp_do_parameter(3541)
+  WARNING: The "write cache size" option is deprecated
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16LE to ISO8859-1 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16LE to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16LE to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16LE to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ISO8859-1 to UTF-16LE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16LE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ISO8859-1 to ASCII not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ISO8859-1 to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ISO8859-1 to UTF8 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ISO8859-1 to UTF-16BE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16BE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ASCII to ISO8859-1 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from ASCII to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF-16LE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16LE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to ISO8859-1 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to ASCII not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF8 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from CP850 to UTF-16BE not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to UTF-16BE
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF8 to ISO8859-1 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF8 to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from ASCII to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16BE to ISO8859-1 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16BE to ASCII
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(159)
+  init_iconv: Conversion from UTF-16BE to CP850 not supported
+[1970/01/01 11:01:35, 0] lib/charcnv.c:init_iconv(167)
+  init_iconv: Attempting to replace with conversion from UTF-16BE to ASCII
+[1970/01/01 11:01:58, 0] nmbd/nmbd_become_lmb.c:become_local_master_stage2(396)
+  *****
+  
+  Samba name server TELSTRA-GATEWAY is now a local master browser for workgroup WORKGROUP on subnet 10.0.0.138
+  
+  *****
+[1970/01/01 11:04:59, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:04:59, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:01, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:01, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:02, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:02, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:04, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:04, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:06, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:09, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:10, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:13, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:15, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:16, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:16, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:05:20, 0] nmbd/nmbd_incomingdgrams.c:process_local_master_announce(309)
+  process_local_master_announce: Server RX at IP 10.0.1.3 is announcing itself as a local master browser for workgroup WORKGROUP and we think we are master. Forcing election.
+[1970/01/01 11:05:20, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(137) ERRNO=Invalid argument
+[1970/01/01 11:05:20, 0] nmbd/nmbd_packets.c:send_netbios_packet(163)
+  send_netbios_packet: send_packet() to IP 10.0.0.255 port 137 failed
+[1970/01/01 11:05:20, 0] nmbd/nmbd_namerelease.c:release_name(219)
+  release_name: Failed to send packet trying to release name WORKGROUP<1d> IP 10.0.0.138
+[1970/01/01 11:05:20, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(137) ERRNO=Invalid argument
+[1970/01/01 11:05:20, 0] nmbd/nmbd_packets.c:send_netbios_packet(163)
+  send_netbios_packet: send_packet() to IP 10.0.0.255 port 137 failed
+[1970/01/01 11:05:20, 0] nmbd/nmbd_namerelease.c:release_name(219)
+  release_name: Failed to send packet trying to release name __MSBROWSE__<01> IP 10.0.0.138
+[1970/01/01 11:09:31, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:14:34, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:20:41, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:27:46, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:35:50, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:37:46, 0] nmbd/nmbd_incomingdgrams.c:process_get_backup_list_request(697)
+  process_get_backup_list_request: domain list requested for workgroup WORKGROUP and I am not a local master browser.
+[1970/01/01 11:44:54, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 11:54:59, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument
+[1970/01/01 12:06:04, 0] libsmb/nmblib.c:send_udp(793)
+  Packet send failed to 10.0.0.255(138) ERRNO=Invalid argument

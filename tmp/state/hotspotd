@@ -1,0 +1,6 @@
+hotspotd.state=state
+hotspotd.state.status=down
+hotspotd.state.extendedstatuslog=/root/hotspot/extendedstatus.log
+hotspotd.state.wan=down
+hotspotd.state.extendedstatus=DOWN_ACS
+hotspotd.state.hotspotdaemon=up

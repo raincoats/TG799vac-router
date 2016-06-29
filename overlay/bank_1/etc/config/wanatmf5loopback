@@ -1,0 +1,6 @@
+
+config wanatmf5loopback 'atm_8_35'
+	option count '1'
+	option timeout '5000'
+	option state 'None'
+

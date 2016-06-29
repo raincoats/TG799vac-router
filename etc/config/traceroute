@@ -1,0 +1,9 @@
+
+config user 'igd'
+	option tries '3'
+	option timeout '5000'
+	option size '38'
+	option dscp '0'
+	option hopcount '30'
+	option state 'None'
+

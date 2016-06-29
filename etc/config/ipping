@@ -1,0 +1,15 @@
+
+config user 'igd'
+	option count '3'
+	option timeout '10000'
+	option size '56'
+	option dscp '0'
+	option state 'None'
+
+config user 'network_rpc'
+	option count '3'
+	option timeout '10000'
+	option size '56'
+	option dscp '0'
+	option state 'None'
+

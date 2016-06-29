@@ -1,0 +1,66 @@
+package fw3_state
+
+config defaults
+	option input 'ACCEPT'
+	option output 'ACCEPT'
+	option forward 'REJECT'
+	option __flags_v4 '0x6001f'
+	option __flags_v6 '0x6002d'
+
+config zone
+	option name 'lan'
+	option input 'ACCEPT'
+	option output 'ACCEPT'
+	option forward 'ACCEPT'
+	option masq '0'
+	option conntrack '1'
+	option mtu_fix '0'
+	option custom_chains '1'
+	list device 'br-lan@lan'
+	list __addrs '10.0.1.138'
+	list __addrs 'fe80::e2b9:e5ff:fe66:0000'
+	option __flags_v4 '0x22594f'
+	option __flags_v6 '0x2414d'
+
+config zone
+	option name 'Guest1'
+	option input 'DROP'
+	option output 'ACCEPT'
+	option forward 'REJECT'
+	option masq '0'
+	option conntrack '1'
+	option mtu_fix '0'
+	option custom_chains '1'
+	list device 'wl0_1@Guest1'
+	list __addrs '192.168.2.126'
+	list __addrs 'fe80::e2b9:e5ff:fe66:0001'
+	option __flags_v4 '0x2319cf'
+	option __flags_v6 '0x301cd'
+
+config zone
+	option name 'Guest1_5GHz'
+	option input 'DROP'
+	option output 'ACCEPT'
+	option forward 'REJECT'
+	option masq '0'
+	option conntrack '1'
+	option mtu_fix '0'
+	option custom_chains '1'
+	list device 'wl1_1@Guest1_5GHz'
+	list __addrs '192.168.2.254'
+	list __addrs 'fe80::e0b9:e5ff:fe5d:2e25'
+	option __flags_v4 '0x2319cf'
+	option __flags_v6 '0x301cd'
+
+config zone
+	option name 'wan'
+	option input 'DROP'
+	option output 'ACCEPT'
+	option forward 'DROP'
+	option masq '1'
+	option conntrack '1'
+	option mtu_fix '1'
+	option custom_chains '1'
+	option __flags_v4 '0x23194f'
+	option __flags_v6 '0x3014d'
+
